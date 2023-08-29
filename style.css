@@ -451,6 +451,8 @@ article .icon {
     background: var(--background-color);
     margin: 2rem auto;
     padding: 0.5rem;
+    border-color: var(--container-border);
+    background: var(--primary-color-2);
 }
 
 .contact-info-container {
