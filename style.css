@@ -467,6 +467,11 @@ article .icon {
 
 .contact-icon {
     cursor: default;
+    margin-left: 3rem;
+}
+
+.contact-icon:first-child {
+    margin-left: 0rem;
 }
 
 .email-icon {
